@@ -21,6 +21,15 @@ This repository showcases the **Model Testing Phase** of the absenteeism project
 
 > **Note:** Department 1 and Department 2 follow identical methodologies, differing only in the datasets used. The goal is to test model adaptability to different project scales.
 
+> **Historical notebook note:** Git history does not contain a distinct Department 1 notebook.
+> The notebook currently stored under `Department_1/` is byte-identical to the Department 2
+> notebook and retains its Department 2 filename. It is preserved as a historical artifact rather
+> than presented as separate Department 1 evidence.
+
+The confidential source workbooks are not included. The notebooks use the documented placeholder
+`data/input.xlsx`; provide a schema-compatible, authorized dataset at that path before attempting
+to rerun them.
+
 ---
 
 ## ⚡ Tech Stack
